@@ -1,238 +1,315 @@
 {
-    "table": [
-        {
-            "category": "entertainment",
-            "name": "movies",
-            "amount": "123",
-            "date": "2023-02-15T17:52:53.945Z"
-        },
-        {
-            "category": "food",
-            "name": "pasta",
-            "amount": "1233",
-            "date": "2023-02-15T17:53:56.605Z"
-        },
-        {
-            "category": "investment",
-            "name": "house",
-            "amount": "4000",
-            "date": "2023-02-15T18:02:49.802Z"
-        },
-        {
-            "category": "food",
-            "name": "Teja",
-            "amount": "38888",
-            "date": "2023-02-15T18:05:23.181Z"
-        },
-        {
-            "category": "food",
-            "name": "Teja",
-            "amount": "38888",
-            "date": "2023-02-15T18:06:24.012Z"
-        },
-        {
-            "category": "food",
-            "name": "Teja",
-            "amount": "38888",
-            "date": "2023-02-15T18:06:25.853Z"
-        },
-        {
-            "category": "investment",
-            "name": "Hose",
-            "amount": "580",
-            "date": "2023-02-15T18:08:08.269Z"
-        },
-        {
-            "category": "rent",
-            "name": "Home",
-            "amount": "2000",
-            "date": "2023-02-15T18:09:39.492Z"
-        },
-        {
-            "category": "bills",
-            "name": "Hair cut",
-            "amount": "200",
-            "date": "2023-02-15T18:10:09.742Z"
-        },
-        {
-            "category": "Other",
-            "name": "ram",
-            "amount": "5",
-            "date": "2023-02-15T18:45:03.694Z"
-        },
-        {
-            "category": "investment",
-            "name": "fgfgfg",
-            "amount": "55",
-            "date": "2023-02-15T18:48:29.077Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "sai",
-            "amount": "123",
-            "date": "2023-02-15T19:10:09.850Z"
-        },
-        {
-            "category": "chooseOne",
-            "name": "233",
-            "amount": "344",
-            "date": "2023-02-15T19:12:06.565Z"
-        },
-        {
-            "category": "chooseOne",
-            "name": "dcdsvds",
-            "amount": "344",
-            "date": "2023-02-15T19:13:21.302Z"
-        },
-        {
-            "category": "investment",
-            "name": "sai",
-            "amount": "1233",
-            "date": "2023-02-15T19:37:06.696Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "mk",
-            "amount": "454433",
-            "date": "2023-02-15T19:38:22.478Z"
-        },
-        {
-            "category": "investment",
-            "name": "dsadsa",
-            "amount": "123",
-            "date": "2023-02-15T19:39:59.070Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "sainath",
-            "amount": "234",
-            "date": "2023-02-15T19:40:48.798Z"
-        },
-        {
-            "category": "investment",
-            "name": "sainath",
-            "amount": "345",
-            "date": "2023-02-15T19:44:14.707Z"
-        },
-        {
-            "category": "food",
-            "name": "sainath",
-            "amount": "123",
-            "date": "2023-02-15T19:45:12.191Z"
-        },
-        {
-            "category": "investment",
-            "name": "sainary",
-            "amount": "123",
-            "date": "2023-02-15T19:45:34.355Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "fsefef",
-            "amount": "123",
-            "date": "2023-02-15T19:45:52.200Z"
-        },
-        {
-            "category": "investment",
-            "name": "sainath",
-            "amount": "12345",
-            "date": "2023-02-15T19:47:05.706Z"
-        },
-        {
-            "category": "investment",
-            "name": "saindjsfse",
-            "amount": "13422",
-            "date": "2023-02-15T19:47:41.792Z"
-        },
-        {
-            "category": "investment",
-            "name": "saindjsfse",
-            "amount": "13422",
-            "date": "2023-02-15T19:47:45.034Z"
-        },
-        {
-            "category": "investment",
-            "name": "fsfewfef",
-            "amount": "1234",
-            "date": "2023-02-15T19:48:09.989Z"
-        },
-        {
-            "category": "investment",
-            "name": "fsfewfef",
-            "amount": "1234",
-            "date": "2023-02-15T19:48:15.723Z"
-        },
-        {
-            "category": "investment",
-            "name": "fsfewfef",
-            "amount": "1234",
-            "date": "2023-02-15T19:48:46.627Z"
-        },
-        {
-            "category": "investment",
-            "name": "fdd",
-            "amount": "12",
-            "date": "2023-02-15T20:04:37.662Z"
-        },
-        {
-            "category": "investment",
-            "name": "fdd",
-            "amount": "12",
-            "date": "2023-02-15T20:05:00.849Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "ddd",
-            "amount": "15",
-            "date": "2023-02-15T20:05:31.777Z"
-        },
-        {
-            "category": "food",
-            "name": "Sa",
-            "amount": "25",
-            "date": "2023-02-16T05:12:21.994Z"
-        },
-        {
-            "category": "food",
-            "name": "Sa",
-            "amount": "25",
-            "date": "2023-02-16T05:12:28.483Z"
-        },
-        {
-            "category": "food",
-            "name": "Sa",
-            "amount": "25",
-            "date": "2023-02-16T05:14:54.338Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "Sai",
-            "amount": "222",
-            "date": "2023-02-16T05:15:36.741Z"
-        },
-        {
-            "category": "entertainment",
-            "name": "Sai",
-            "amount": "222",
-            "date": "2023-02-16T05:23:55.200Z"
-        },
-        {
-            "category": "food",
-            "name": "fgfgf",
-            "amount": "555",
-            "date": "2023-02-16T05:31:27.776Z"
-        },
-        {
-            "category": "food",
-            "name": "fgfgf",
-            "amount": "555",
-            "date": "2023-02-16T05:31:32.720Z"
-        },
-        {
-            "category": "food",
-            "name": "fgfgf",
-            "amount": "555",
-            "date": "2023-02-16T05:31:34.443Z"
-        }
-    ]
+  "table": [
+    {
+      "category": "entertainment",
+      "name": "movies",
+      "amount": "123",
+      "date": "2023-02-15T17:52:53.945Z"
+    },
+    {
+      "category": "food",
+      "name": "pasta",
+      "amount": "1233",
+      "date": "2023-02-15T17:53:56.605Z"
+    },
+    {
+      "category": "investment",
+      "name": "house",
+      "amount": "4000",
+      "date": "2023-02-15T18:02:49.802Z"
+    },
+    {
+      "category": "food",
+      "name": "Teja",
+      "amount": "38888",
+      "date": "2023-02-15T18:05:23.181Z"
+    },
+    {
+      "category": "food",
+      "name": "Teja",
+      "amount": "38888",
+      "date": "2023-02-15T18:06:24.012Z"
+    },
+    {
+      "category": "food",
+      "name": "Teja",
+      "amount": "38888",
+      "date": "2023-02-15T18:06:25.853Z"
+    },
+    {
+      "category": "investment",
+      "name": "Hose",
+      "amount": "580",
+      "date": "2023-02-15T18:08:08.269Z"
+    },
+    {
+      "category": "rent",
+      "name": "Home",
+      "amount": "2000",
+      "date": "2023-02-15T18:09:39.492Z"
+    },
+    {
+      "category": "bills",
+      "name": "Hair cut",
+      "amount": "200",
+      "date": "2023-02-15T18:10:09.742Z"
+    },
+    {
+      "category": "Other",
+      "name": "ram",
+      "amount": "5",
+      "date": "2023-02-15T18:45:03.694Z"
+    },
+    {
+      "category": "investment",
+      "name": "fgfgfg",
+      "amount": "55",
+      "date": "2023-02-15T18:48:29.077Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "sai",
+      "amount": "123",
+      "date": "2023-02-15T19:10:09.850Z"
+    },
+    {
+      "category": "chooseOne",
+      "name": "233",
+      "amount": "344",
+      "date": "2023-02-15T19:12:06.565Z"
+    },
+    {
+      "category": "chooseOne",
+      "name": "dcdsvds",
+      "amount": "344",
+      "date": "2023-02-15T19:13:21.302Z"
+    },
+    {
+      "category": "investment",
+      "name": "sai",
+      "amount": "1233",
+      "date": "2023-02-15T19:37:06.696Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "mk",
+      "amount": "454433",
+      "date": "2023-02-15T19:38:22.478Z"
+    },
+    {
+      "category": "investment",
+      "name": "dsadsa",
+      "amount": "123",
+      "date": "2023-02-15T19:39:59.070Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "sainath",
+      "amount": "234",
+      "date": "2023-02-15T19:40:48.798Z"
+    },
+    {
+      "category": "investment",
+      "name": "sainath",
+      "amount": "345",
+      "date": "2023-02-15T19:44:14.707Z"
+    },
+    {
+      "category": "food",
+      "name": "sainath",
+      "amount": "123",
+      "date": "2023-02-15T19:45:12.191Z"
+    },
+    {
+      "category": "investment",
+      "name": "sainary",
+      "amount": "123",
+      "date": "2023-02-15T19:45:34.355Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "fsefef",
+      "amount": "123",
+      "date": "2023-02-15T19:45:52.200Z"
+    },
+    {
+      "category": "investment",
+      "name": "sainath",
+      "amount": "12345",
+      "date": "2023-02-15T19:47:05.706Z"
+    },
+    {
+      "category": "investment",
+      "name": "saindjsfse",
+      "amount": "13422",
+      "date": "2023-02-15T19:47:41.792Z"
+    },
+    {
+      "category": "investment",
+      "name": "saindjsfse",
+      "amount": "13422",
+      "date": "2023-02-15T19:47:45.034Z"
+    },
+    {
+      "category": "investment",
+      "name": "fsfewfef",
+      "amount": "1234",
+      "date": "2023-02-15T19:48:09.989Z"
+    },
+    {
+      "category": "investment",
+      "name": "fsfewfef",
+      "amount": "1234",
+      "date": "2023-02-15T19:48:15.723Z"
+    },
+    {
+      "category": "investment",
+      "name": "fsfewfef",
+      "amount": "1234",
+      "date": "2023-02-15T19:48:46.627Z"
+    },
+    {
+      "category": "investment",
+      "name": "fdd",
+      "amount": "12",
+      "date": "2023-02-15T20:04:37.662Z"
+    },
+    {
+      "category": "investment",
+      "name": "fdd",
+      "amount": "12",
+      "date": "2023-02-15T20:05:00.849Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "ddd",
+      "amount": "15",
+      "date": "2023-02-15T20:05:31.777Z"
+    },
+    {
+      "category": "food",
+      "name": "Sa",
+      "amount": "25",
+      "date": "2023-02-16T05:12:21.994Z"
+    },
+    {
+      "category": "food",
+      "name": "Sa",
+      "amount": "25",
+      "date": "2023-02-16T05:12:28.483Z"
+    },
+    {
+      "category": "food",
+      "name": "Sa",
+      "amount": "25",
+      "date": "2023-02-16T05:14:54.338Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "Sai",
+      "amount": "222",
+      "date": "2023-02-16T05:15:36.741Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "Sai",
+      "amount": "222",
+      "date": "2023-02-16T05:23:55.200Z"
+    },
+    {
+      "category": "food",
+      "name": "fgfgf",
+      "amount": "555",
+      "date": "2023-02-16T05:31:27.776Z"
+    },
+    {
+      "category": "food",
+      "name": "fgfgf",
+      "amount": "555",
+      "date": "2023-02-16T05:31:32.720Z"
+    },
+    {
+      "category": "food",
+      "name": "fgfgf",
+      "amount": "555",
+      "date": "2023-02-16T05:31:34.443Z"
+    },
+    {
+      "category": "chooseOne",
+      "name": "Bhanu Prasad Kandregula",
+      "amount": "4354",
+      "date": "2023-02-16T05:55:15.380Z"
+    },
+    {
+      "category": "chooseOne",
+      "name": "Bhanu Prasad Kandregula",
+      "amount": "4354",
+      "date": "2023-02-16T05:55:15.854Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "Bhanu Prasad Kandregula",
+      "amount": "4354",
+      "date": "2023-02-16T05:57:56.886Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "Bhanu Prasad Kandregula",
+      "amount": "4354",
+      "date": "2023-02-16T05:57:57.275Z"
+    },
+    {
+      "category": "food",
+      "name": "wefwef",
+      "amount": "389252",
+      "date": "2023-02-16T06:02:23.507Z"
+    },
+    {
+      "category": "food",
+      "name": "wefwef",
+      "amount": "389252",
+      "date": "2023-02-16T06:02:23.892Z"
+    },
+    {
+      "category": "food",
+      "name": "wefwef",
+      "amount": "389252",
+      "date": "2023-02-16T06:03:00.501Z"
+    },
+    {
+      "category": "bills",
+      "name": "bahnuk",
+      "amount": "234",
+      "date": "2023-02-16T06:03:15.288Z"
+    },
+    {
+      "category": "chooseOne",
+      "name": "Bhanu Prasad Kandregula",
+      "amount": "32345325",
+      "date": "2023-02-16T06:11:32.840Z"
+    },
+    {
+      "category": "investment",
+      "name": "Hhh",
+      "amount": "55",
+      "date": "2023-02-16T06:22:33.751Z"
+    },
+    {
+      "data": { "category": "rent", "name": "ewfwe", "amount": "324" },
+      "body": "Post Body",
+      "date": "2023-02-16T07:02:11.027Z"
+    },
+    {
+      "category": "entertainment",
+      "name": "345",
+      "amount": "435",
+      "date": "2023-02-16T07:04:38.649Z"
+    },
+    {
+      "category": "investment",
+      "name": "r332",
+      "amount": "345534",
+      "date": "2023-02-16T07:04:58.280Z"
+    }
+  ]
 }
